@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(217, 255, 0);
+    background-color: rgb(32, 18, 226);
+    margin: 20px auto;
+    border: 5px rgb(3, 1, 1);
+    border-style: dashed;
+    text-align: center;
+}
+
+.healthy_tip {
+    text-decoration: line-through;
+}
+
+.title {
+    margin: 20px auto;
+    text-align: center;
+    color:  rgb(217, 255, 0);
+    background-color: rgb(32, 18, 226);
+}
+
+body {
+    background-color: aquamarine;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    margin: 0 0 10px 10px;
+    float: right;
+}

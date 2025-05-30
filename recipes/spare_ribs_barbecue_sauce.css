@@ -1,0 +1,12 @@
+body {
+    background-color: crimson;
+    color: cyan;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    margin: 20px auto;
+    background-color: cyan;
+    color: darkviolet;
+    text-align: center;
+}

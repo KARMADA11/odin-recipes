@@ -1,0 +1,30 @@
+.title {
+    background-color: rgb(107, 53, 14);
+    color: blue;
+    text-align: center;
+    margin: 20px auto;
+
+}
+
+body {
+    background-color: blue;
+}
+
+h1 {
+    border: dotted;
+    border-color: brown;
+    text-align: center;
+    margin: 20px auto;
+    color: chartreuse;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    margin: 20px auto;
+
+}
+
+#small {
+    margin-left: auto;
+}

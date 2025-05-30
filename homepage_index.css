@@ -1,0 +1,19 @@
+.tbutton {
+    color: rgb(8, 8, 8);
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    width: 1000px;
+    height: 20px;
+    margin: 20px auto;
+
+}
+
+body{
+  font-family: 'Helvetica','Times New Roman', 'sans-serif';
+    background-color: chartreuse;
+}
+
+li{
+    background-color: rgb(235, 98, 8);
+}
